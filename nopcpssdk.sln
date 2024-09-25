@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nopcpssdk", "nopcpssdk\nopcpssdk.vcxproj", "{5DB3DB24-AF7A-446F-84AF-D5CE92E598A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB3DB24-AF7A-446F-84AF-D5CE92E598A2}.Debug|x64.ActiveCfg = Debug|x64
+		{5DB3DB24-AF7A-446F-84AF-D5CE92E598A2}.Debug|x64.Build.0 = Debug|x64
+		{5DB3DB24-AF7A-446F-84AF-D5CE92E598A2}.Release|x64.ActiveCfg = Release|x64
+		{5DB3DB24-AF7A-446F-84AF-D5CE92E598A2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8894EC03-67E2-45F3-B094-05D276FA8F9B}
+	EndGlobalSection
+EndGlobal

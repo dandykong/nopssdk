@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\3rdParty">
+      <UniqueIdentifier>{672de895-4700-418b-b7df-9f3b8876b64d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3rdParty">
+      <UniqueIdentifier>{bebed8a8-fe70-40da-a973-c3e662ec39f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\3rdParty\detours\detours.h">
+      <Filter>Header Files\3rdParty</Filter>
+    </ClInclude>
+    <ClInclude Include="include\3rdParty\detours\detver.h">
+      <Filter>Header Files\3rdParty</Filter>
+    </ClInclude>
+    <ClInclude Include="proxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\creatwth.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\detours.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disasm.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disolarm.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disolarm64.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disolia64.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disolx64.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\disolx86.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\image.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3rdParty\detours\modules.cpp">
+      <Filter>Source Files\3rdParty</Filter>
+    </ClCompile>
+    <ClCompile Include="stub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="proxy.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="proxy.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
