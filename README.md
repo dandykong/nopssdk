@@ -1,3 +1,5 @@
+### A complete restoration of this repo is currently underway.
+
 # 🎮 🚨 **NoPSSDK** _v1.0.3_
 [![GitHub All Releases](https://img.shields.io/github/downloads/iArtorias/nopssdk/total.svg)](https://github.com/iArtorias/nopssdk/releases)
 
