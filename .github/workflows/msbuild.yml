@@ -48,4 +48,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: NoPSSDKBuild
-        path: "D:\a\nopssdk\nopssdk\x64\Release"
+        path: "D:/a/nopssdk/nopssdk/x64/Release"
