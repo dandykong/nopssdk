@@ -1,5 +1,3 @@
-### A complete restoration of this repo is currently underway.
-
 # 🎮 🚨 **NoPSSDK** _v1.0.3_
 [![GitHub All Releases](https://img.shields.io/github/downloads/dandykong/nopssdk/total.svg)](https://github.com/dandykong/nopssdk/releases)
 
@@ -12,7 +10,7 @@ This library attempts to resolve all the possible issues related to the PlayStat
 
 ## Notes
 
-This project does not touch or modify any original game code and is NOT intended to encourage the piracy.
+This project does not touch or modify any original game code and is NOT intended to encourage piracy.
 
 ## Usage
 
@@ -49,8 +47,9 @@ Upon the first popup when it asks to link the Steam account, press `NO` button.
 ## Credits
 
 - *jason098* (Linux tests and tips)
+- *Ameribear* (Reuploading the latest Nexus Mods version)
 
 ## Compilation notes
 
 - **Visual Studio 2022** is required to compile this project
-- **PlayStation PC Runtime** is not included in the source code. I have no idea what iArtorias is doing to it.
+- **PlayStation PC Runtime SDK** is not included in the source code. I have no idea what iArtorias was doing with it or why it was being redistributed.
