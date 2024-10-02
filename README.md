@@ -18,8 +18,7 @@ This project does not touch or modify any original game code and is NOT intended
 
 1. Download the [latest release](https://github.com/dandykong/nopssdk/releases/latest)
 2. Copy the `version.dll` and `PsPcSdk.dll` to the game folder
-3. Add the following launch parameters to the game executable: `SteamDeck=0`
-4. Enjoy!
+3. Enjoy!
 
 ### Linux (Wine)
 
