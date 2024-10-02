@@ -20,7 +20,7 @@ This project does not touch or modify any original game code and is NOT intended
 2. Copy the `version.dll` and `PsPcSdk.dll` to the game folder
 3. Enjoy!
 
-### Linux (Wine)
+### Linux (Wine) / SteamOS
 
 1. Download the [latest release](https://github.com/dandykong/nopssdk/releases/latest)
 2. Copy the `version.dll` and `PsPcSdk.dll` to the game folder
