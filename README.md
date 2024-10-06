@@ -17,13 +17,13 @@ This project does not touch or modify any original game code and is NOT intended
 ### Windows
 
 1. Download the [latest release](https://github.com/dandykong/nopssdk/releases/latest)
-2. Copy the `version.dll` and `PsPcSdk.dll` to the game folder
+2. Copy `version.dll` to the game folder
 3. Enjoy!
 
 ### Linux (Wine) / SteamOS
 
 1. Download the [latest release](https://github.com/dandykong/nopssdk/releases/latest)
-2. Copy the `version.dll` and `PsPcSdk.dll` to the game folder
+2. Copy `version.dll` to the game folder
 3. Add the following launch parameters to the game executable: `SteamDeck=0 WINEDLLOVERRIDES="version=n,b" %command%`
 4. Enjoy!
 
@@ -52,4 +52,3 @@ Upon the first popup when it asks to link the Steam account, press `NO` button.
 ## Compilation notes
 
 - **Visual Studio 2022** is required to compile this project
-- **PlayStation PC Runtime SDK** is not included in the source code. I have no idea what iArtorias was doing with it or why it was being redistributed.
