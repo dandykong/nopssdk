@@ -1,3 +1,5 @@
+NOTE: As per [this official announcement from Sony](https://blog.playstation.com/2025/01/29/new-in-game-content-incentives-coming-to-playstation-games-on-pc/), this mod is no longer necessary. However, it will remain up for archival purposes.
+
 # 🎮 🚨 **NoPSSDK** _v1.0.3_
 [![GitHub All Releases](https://img.shields.io/github/downloads/dandykong/nopssdk/total.svg)](https://github.com/dandykong/nopssdk/releases)
 
@@ -38,7 +40,7 @@ Upon the first popup when it asks to link the Steam account, press `NO` button.
 ![image](https://web.archive.org/web/20240922203227/https://private-user-images.githubusercontent.com/47572179/369656331-ea39abda-e315-4d67-9b8d-7a08467272ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcwMzc0NDcsIm5iZiI6MTcyNzAzNzE0NywicGF0aCI6Ii80NzU3MjE3OS8zNjk2NTYzMzEtZWEzOWFiZGEtZTMxNS00ZDY3LTliOGQtN2EwODQ2NzI3MmFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDIwMzIyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0YTY4ZWIzZGY1MWY5MTAxOThkZDVjY2RhY2UyZjE5ZmFlMmI4M2ZkODFkOWM1YWJhYzFkYmQ0YmQyMjI1MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i_6pFW2GjNufp-KsNxVMUxQGcYce6vc96Xv9veHTbDI)
 
 ## NexusMods link
-- [Find it here](https://www.nexusmods.com/godofwarragnarok/mods/51)
+- [Find it here](https://www.nexusmods.com/godofwarragnarok/mods/51) (Banned)
 
 ## Stuff used
 
